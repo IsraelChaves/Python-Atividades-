@@ -1,0 +1,2 @@
+lista = ["macaco", "sapo"]
+print
